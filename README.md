@@ -17,7 +17,7 @@ A to do list made with React.js
 
 ## Getting Started
 
- [Click here]() to see the deployed app!
+ [Click here](https://vigorous-hoover-20ab62.netlify.app/) to see the deployed app!
 
  ## Future Enhancements:
 
